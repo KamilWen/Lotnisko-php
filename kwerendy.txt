@@ -1,0 +1,1 @@
+1. SELECT czas, kierunek, nr_rejsu, status_lotu FROM przyloty ORDER BY czas;
